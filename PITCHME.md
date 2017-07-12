@@ -25,12 +25,6 @@ Banana Stand <==> Salesforce
 ---
 ## Services --> Stranger Forces
 - via Kafka
-- Stranger Forces Elixir app
-- Retries
-- Denormalization via other services
-
----
-## Kafka logging
 - described in avvo_events gem
 - produced using avvo_event_logger base gem
 - AVDL (Apache Avro definition language)
@@ -38,6 +32,9 @@ Banana Stand <==> Salesforce
 ---
 ## Stranger Forces --> Salesforce
 - HTTP
+- Stranger Forces Elixir app
+- consumes Kafka events
+- Denormalization via other services
 - Retries
 - Credential caching
 
