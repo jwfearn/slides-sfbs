@@ -1,4 +1,4 @@
-## Salesforce <--> Banana Stand
+## Salesforce Realtime Processing
 
 #### John Fearnside
 #### jfearnside@avvo.com
@@ -44,7 +44,6 @@ Banana Stand <==> Salesforce
 - Proxies to services
 
 ---
-## Resources
 Slides: https://gitpitch.com/jwfearn/slides-sfbs
 
 
