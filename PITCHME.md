@@ -25,8 +25,8 @@ Banana Stand <==> Salesforce
 ---
 ## Services --> Stranger Forces
 - via Kafka
-- described in avvo_events gem
-- produced using avvo_event_logger base gem
+- described in `avvo_events` gem
+- produced using `avvo_event_logger` gem
 - AVDL (Apache Avro definition language)
 
 ---
