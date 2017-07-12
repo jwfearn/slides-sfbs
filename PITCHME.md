@@ -37,7 +37,6 @@ Banana Stand <==> Salesforce
 
 ---
 ## Stranger Forces --> Salesforce
-- consumed using xxx
 - HTTP
 - Retries
 - Credential caching
